@@ -1,4 +1,4 @@
-# Chatting_Application
+# Reliable_P2P_File_Sharing
 
 This project was developed using Python on Ubuntu 20.4.
 
