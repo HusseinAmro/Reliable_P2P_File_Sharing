@@ -31,7 +31,7 @@ This project is a peer-to-peer chatting application that enables file sharing an
 
 4. Send messages between the peers by typing them in the terminal.
 
-5. To enter sender/receiver mode for file sharing, type:
+5. To enter sender/receiver mode for file sharing, type in each terminal:
 
     ```
     sr
