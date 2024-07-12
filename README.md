@@ -10,9 +10,7 @@ This project is a peer-to-peer chatting application that enables file sharing an
 
 - To simulate packet loss, use the netem tool in the Linux terminal:
 
-    - sudo tc qdisc add dev lo root netem loss 70%
-
-- The lo refers to the localhost.
+    - sudo tc qdisc add dev lo root netem loss 70%, lo refers to the localhost.
 
 - You can also use other netem commands to simulate different network conditions such as delays.
 
