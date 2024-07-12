@@ -1,4 +1,4 @@
-# Reliable_P2P_File_Sharing
+# Reliable P2P File Sharing
 
 This project was developed using Python on Ubuntu 20.4.
 
